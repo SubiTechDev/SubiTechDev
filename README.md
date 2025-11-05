@@ -21,6 +21,6 @@
 
 ## 📫 Cómo contactarme
 
-- ✉️ Email: alfonso.subiela@gmail.com
+- ✉️ Email: subiela.alfonso@gmail.com
   
 - 💼 [LinkedIn](https://linkedin.com/in/alfonso-subiela)  
