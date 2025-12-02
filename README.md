@@ -1,10 +1,11 @@
 # 👋 Hola, soy Alfonso Subiela 
 
 💻 Desarrollador Web y estudiante de tecnología  
+⚡ Apasionado por la tecnología
+🌱 Actualmente aprendiendo Flask, SQLite y scraping 
 
-⚡ Apasionado por Python, JavaScript y el desarrollo de aplicaciones web  
-
-🌱 Actualmente aprendiendo Flask, SQLite y scraping  
+Vengo del sector industrial, donde aprendí el valor del trabajo duro y la disciplina, y he decidido redirigir mi carrera hacia mi verdadera pasión: la tecnología.
+Me considero un perfil Junior con una gran capacidad de adaptación y muchas ganas de enfrentarme a retos reales. No busco solo un empleo, sino un entorno de mentoría donde pueda transformar mi pasión y mis conocimientos teóricos en experiencia práctica, aportando compromiso y energía al equipo.
 
 
 ---
@@ -24,7 +25,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 
----
+
 ## 📫 Cómo contactarme
 
   <p align="center">
