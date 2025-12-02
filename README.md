@@ -10,20 +10,23 @@
 ---
 
 ##  Tecnologías
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f08433f5-0412-46a2-888d-20782614d972" height="50" alt="Java" style="margin: 5px;" />
-  <img src="https://github.com/user-attachments/assets/367a08c4-5107-4d7b-b864-12bfda530224" height="50" alt="Spring" style="margin: 5px;" />
-  <img src="https://github.com/user-attachments/assets/49424b19-0b83-48cd-bcb6-0e2428f1520e" height="50" alt="Hibernate" style="margin: 5px;" />
-  <img src="https://github.com/user-attachments/assets/5c0bee15-864a-4afa-9dca-6ed31476b8ae" height="50" alt="MySQL" style="margin: 5px;" />
-  <img src="https://github.com/user-attachments/assets/a9439b2e-e0ad-49f0-96e8-ebbdf669f225" height="50" alt="Angular" style="margin: 5px;" />
-  <img src="https://github.com/user-attachments/assets/ffb29ab2-74f7-4176-879c-5a8620735bd5" height="50" alt="TypeScript" style="margin: 5px;" />
-  <img src="https://github.com/user-attachments/assets/dbf6c158-7760-44a6-b927-a1795936363d" height="50" alt="HTML5" style="margin: 5px;" />
-  <img src="https://github.com/user-attachments/assets/43f66314-6a3c-47ee-bb19-15041daf13d4" height="50" alt="CSS3" style="margin: 5px;" />
-  <img src="https://github.com/user-attachments/assets/25464060-0317-483d-9817-65a75e5378da" height="50" alt="Bootstrap" style="margin: 5px;" />
-</p>
 
 
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)
 
 ## 📫 Cómo contactarme
 
