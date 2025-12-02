@@ -1,6 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> Hola, soy Alfonso Subiela 
 
 ### 👨‍💻 Sobre mí
+
 <br>
 > "La actitud es la diferencia entre saber hacerlo y querer hacerlo mejor."
 <br> 
