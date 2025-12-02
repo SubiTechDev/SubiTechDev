@@ -1,13 +1,14 @@
 # 👋 Hola, soy Alfonso Subiela 
-
-> "La actitud es la diferencia entre saber hacerlo y querer hacerlo mejor."
-> 
+ 
 ### 👨‍💻 Sobre mí
 
 **En Transición:** 🏭 Industria ➡️ 💻 Desarrollo de Software.
+> "La actitud es la diferencia entre saber hacerlo y querer hacerlo mejor."
 
-Soy un **🧩 Desarrollador Junior💻** Vengo del sector industrial, donde aprendí el valor del **👷‍♂️trabajo duro y la disciplina🧹**, y he decidido redirigir mi carrera hacia mi verdadera pasión: la tecnología ⚡.
-Aunque mi experiencia técnica está despegando, mi experiencia laboral previa me ha dado madurez profesional.
+ 
+# Soy un **Desarrollador Junior🧩 ** Vengo del sector industrial, donde aprendí el valor del **👷‍♂️trabajo duro y la disciplina🧹**, y he decidido redirigir mi carrera hacia mi verdadera pasión: la tecnología ⚡.
+
+# Aunque mi experiencia técnica está despegando, mi experiencia laboral previa me ha dado madurez profesional.
 
 **Lo que ofrezco:**
 ![Curiosidad](https://img.shields.io/badge/-Curiosidad-yellow?style=flat-square)
@@ -18,6 +19,7 @@ Aunque mi experiencia técnica está despegando, mi experiencia laboral previa m
 ---
 
 ##  Tecnologías
+
 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -30,6 +32,7 @@ Aunque mi experiencia técnica está despegando, mi experiencia laboral previa m
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
 
 
 
